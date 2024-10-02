@@ -1,0 +1,13 @@
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/PropsRemoverPlugin.csproj.AssemblyReference.cache
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/PropsRemoverPlugin.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/PropsRemoverPlugin.AssemblyInfoInputs.cache
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/PropsRemoverPlugin.AssemblyInfo.cs
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/PropsRemoverPlugin.csproj.CoreCompileInputs.cache
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/PropsRemoverPlugin.sourcelink.json
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/bin/Debug/net8.0/PropsRemoverPlugin.deps.json
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/bin/Debug/net8.0/PropsRemoverPlugin.dll
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/bin/Debug/net8.0/PropsRemoverPlugin.pdb
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/PropsRemoverPlugin.dll
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/refint/PropsRemoverPlugin.dll
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/PropsRemoverPlugin.pdb
+/home/francisco/git/RemoveEntity/PropsRemoverPlugin/obj/Debug/net8.0/ref/PropsRemoverPlugin.dll
