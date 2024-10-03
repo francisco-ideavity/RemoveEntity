@@ -20,7 +20,7 @@
 - Go to the [Releases](https://github.com/francisco-ideavity/RemoveEntity/releases) page of the repository and download the `.zip` file with the plugin.
 
 2. **Extract and Move the Plugin**:
-- Extract the contents of the `.zip` and move the generated `.dll` file to the plugins directory of your CS2 server.
+- Extract the contents of the `.zip` and move the addons folder to your CS2 server directory.
 
 3. **Restart the Server**:
 - Restart the server so that the plugin loads correctly.
